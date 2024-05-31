@@ -1,0 +1,37 @@
+body{
+    background-color: #e6bf83;
+}
+input{
+    background-color: #dc381f;
+    border: none;
+    color:white;
+}
+td, tr{
+    border: 1px solid rgb(0, 0, 0);
+}
+table{
+    border:2px solid;
+}
+td{
+    text-align: center;
+}
+h1{
+    
+    font-size: 30px;
+   
+}
+#id1{
+  
+    background-color:#ddad45 ;
+}
+#result{
+     margin-top: 100px;
+}
+#v{
+    background-color: #ff4500;
+    color: white;
+}
+#e{
+    background-color: green;
+    color: white;
+}
